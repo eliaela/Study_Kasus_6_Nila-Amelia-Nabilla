@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Garam",
+        "stok": 15,
+        "harga": 8000
+    },
+    {
+        "nama": "Minyak Goreng",
+        "stok": 20,
+        "harga": 20000
+    },
+    {
+        "nama": "beras 5 kg",
+        "stok": 10,
+        "harga": 90000
+    },
+    {
+        "nama": "indomie cabe ijo",
+        "stok": 15,
+        "harga": 3500
+    }
+]
